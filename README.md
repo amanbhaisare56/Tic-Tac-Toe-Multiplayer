@@ -1,10 +1,10 @@
 # Process to run the app
 <ol>
-  <li> Go in the directory TicTacToe-Client</li>
-  <li> run <b>npm run dev</b></li>
-  <li> copy localhost link and paste in your browser </li>
-  <li> Go back in main directory <b>TicTacToe-Multiplayer</b></li>
-  <li> Go in the directory TicTacToe-Server</li>
-  <li> run <b>nodemon server.js</b></li>
-  <li> Now you can play the Game</li>
+  <li> Navigate to the TicTacToe-Client directory.</li>
+  <li> Run the command: <b>npm run dev</b></li>
+  <li> Copy the localhost link that appears in the terminal and paste it into your browser. </li>
+  <li> Return to the main directory, <b>TicTacToe-Multiplayer</b>.</li>
+  <li> Navigate to the <b>TicTacToe-Server</b> directory.</li>
+  <li> Run the command: <b>nodemon server.js.</b></li>
+  <li> You can now play the game.</li>
 </ol>
